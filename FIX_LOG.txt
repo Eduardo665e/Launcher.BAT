@@ -1,0 +1,7 @@
+============================================================
+MINECRAFT LAUNCHER FIX
+============================================================
+Launcher: C:\Users\fiden\Downloads\launcher-20261002T195522Z-1-001\launcher
+Versao: 1.8.8
+JSON: C:\Users\fiden\Downloads\launcher-20261002T195522Z-1-001\launcher\versions\1.8.8\1.8.8.json
+============================================================
